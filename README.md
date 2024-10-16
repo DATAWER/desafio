@@ -49,6 +49,7 @@ E: cada profissional deve ter detalhes de suas qualificações associadas
 4. React-Query
 5. Material-UI
 6. Prisma
+7. Typescript
 
 ### Coneceitos
 1. SOLID
