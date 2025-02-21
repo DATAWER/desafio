@@ -16,6 +16,7 @@ Para esse projeto é indispensável a utilização das tecnologias abaixo, vamos
 4. React-Query
 5. Material-UI
 7. Typescript
+8. Zustand
 
 ### Conceitos
 
