@@ -2,7 +2,7 @@
 
 Para esse desafio, sesrá avaliado os conhcimentos para resolução dos problemas, a organização dos códigos, organização do projeto. Após a conclusão deste, enviar o projeto para a equipe de recrutamento para avaliação do código.
 
-Deve-se ter um commit para cada recursos implementado e se fazer uso das tags para controle de versão.
+Deve-se ter um commit para cada recursos implementado, e se fazer uso das tags para controle de versão.
 
 ## Requisitos do projeto
 
